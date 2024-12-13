@@ -1,5 +1,3 @@
-![BankIT Logo](https://raw.githubusercontent.com/Bangkit-Capstone-C242-PS354/.github/refs/heads/main/profile/bankitprofile.png)
-
 # BankIT - C242-PS354 - Bangkit 2024
 
 # Get to Know BankIT
