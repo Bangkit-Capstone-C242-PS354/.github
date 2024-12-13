@@ -19,7 +19,3 @@ Economics Empowerment: Navigating Sustainable Economies for All
 | Aisyah Putri Khurin’in         | Machine Learning   | A008B4KX0269 |
 | Dhanada Santika Putri          | Machine Learning   | A008B4KX1089  |
 
-## Link
--
--
-- 
