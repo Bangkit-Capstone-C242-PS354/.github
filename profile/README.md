@@ -15,6 +15,15 @@ Economics Empowerment: Navigating Sustainable Economies for All
 - Chatbot for Financial Guidance
 - Export Transaction Data to .xlsx File
 
+## Deployed Links:
+- APK: https://drive.google.com/file/d/1LYS5I_NewwXt2pCaGMv_aztAZpDe9CYM/view
+- Figma: https://www.figma.com/design/ng8i2A7y0vTj9y9UvVRBYi/BankIT---App-Design?node-id=296-330&t=z9xWcdkDj1VW5d1I-1
+- Deployed Back-end Application: https://backend-1013191609743.asia-southeast2.run.app
+- Deployed Machine Learning Model: https://image-processing-1013191609743.asia-southeast2.run.app
+- Text Classification Model: https://colab.research.google.com/drive/1xVZLDuB3EPSTLPg2J5p666zPDeV4eDL5?usp=sharing
+- OCR Model: https://colab.research.google.com/drive/1n7Jq8H3hBlwGuFHha6qUu1dnw6Xhgqog?usp=sharing
+- Main Function: https://colab.research.google.com/drive/1tZHY8-8cfGotqG-SRuWJ14b5NQAcd5XI?usp=sharing
+
 ## Team Members
 
 | Name                           | Role               | ID          |
